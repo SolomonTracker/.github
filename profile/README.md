@@ -30,9 +30,6 @@ ensuring:
    reducing environmental impact and enhancing 
    circularity.  
 
-With SolomonTracker, every package tells a story – a 
-journey of efficiency and responsibility.
-
 ---
 
 ## 🛠 How do we do that?
@@ -59,7 +56,8 @@ and **secure algorithms**:
      a greyscale image when a randomly chosen index gets
      a 1 bit (meaning add 10 to gray pixel value). The 0
      bits can't be seen since they don't change pixel value.
-     ![Lauzhack 2024 logo signed with custom fingerprinting code](./solomontracker_thumbnail.png "Signed grayscale image")
+     <img src="./solomontracker_thumbnail.png" alt="Lauzhack 
+     2024 logo signed with custom fingerprinting code" width="500" height="600">
 
 4. **Validation and Metrics:** SolomonTracker checks 
    that the same box is reused multiple times, 
