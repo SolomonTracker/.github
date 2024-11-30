@@ -57,10 +57,13 @@ and **secure algorithms**:
      a 1 bit (meaning add 10 to gray pixel value). The 0
      bits can't be seen since they don't change pixel value.
 
-<div style="width:20%; margin: auto;">
-      <img src="./solomontracker_thumbnail.png" alt="Lauzhack 
-      2024 logo signed with custom fingerprinting code" width="450" height="450">
+
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: auto;">
+  <img src="./solomontracker_thumbnail.png" 
+       alt="Lauzhack 2024 logo signed with custom fingerprinting code" 
+       style="width: 450px; height: 450px;">
 </div>
+
 4. **Validation and Metrics:** SolomonTracker checks 
    that the same box is reused multiple times, 
    reducing material use and promoting sustainability.  
