@@ -2,7 +2,7 @@
 
 Welcome to the **SolomonTracker** repository – an 
 innovative solution developed during [Lauzhack](https://lauzhack.com) 
-2023. Powered by our team’s creativity and supported 
+2024. Powered by our team’s creativity and supported 
 by LEGO pieces and the **BOBST Connect** platform, 
 this project revolutionizes packaging sustainability 
 and traceability. Built during a hackathon, 
