@@ -55,6 +55,11 @@ and **secure algorithms**:
      as images.  
    - Randomness ensures the codes remain untraceable 
      to malicious actors.
+   - Here you can see the individual pixels changed to
+     a greyscale image when a randomly chosen index gets
+     a 1 bit (meaning add 10 to gray pixel value). The 0
+     bits can't be seen since they don't change pixel value.
+     ![Lauzhack 2024 logo signed with custom fingerprinting code](./solomontracker_thumbnail "Signed grayscale image")
 
 4. **Validation and Metrics:** SolomonTracker checks 
    that the same box is reused multiple times, 
