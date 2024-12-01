@@ -63,6 +63,14 @@ and **secure algorithms**:
        style="width: 450px; height: 450px;">
 </p>
 
+Following is a picture of the overlayed generated signatures by our bobstracker CLI app.
+
+<p align="center">
+  <img src="./zzz.png" 
+       alt="Overlayed signatures" 
+       style="width: 600px; height: 314px;">
+</p>
+
 4. **Validation and Metrics:** SolomonTracker checks 
    that the same box is reused multiple times, 
    reducing material use and promoting sustainability.  
